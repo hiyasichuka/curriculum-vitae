@@ -27,10 +27,10 @@
 新規システム開発に取り組むときは、末永く使えるよう拡張性や保守性を考慮した設計・開発を心がけています。
 ```
 
- * Windowsアプリの開発（ VBA / VB.NET/ C# / XAML ）
- * Webアプリの開発 ( ASP.NET / C# / HTML / Javascript )
+ * Windowsアプリの開発（ VBA / VB.NET/ C# ）
+ * Webアプリの開発 ( ASP.NET / C# / HTML / Javascript / Python)
  * iOSアプリの開発 ( FileMaker )  *ObjectiveCは未経験。
- * クロスプラットフォームアプリの開発 ( Xamarin )
+ * クロスプラットフォームアプリの開発 ( Xamarin.Forms )
  * BIツール開発（ PowerBI / Tableau / Qlick Sense ）
 
 ### システムインフラの開発：5年
@@ -46,9 +46,8 @@ Dockerは素晴らしいです。Linuxが好きになりました。
 
 * データベースサーバの設計と構築 ( SQLServer / Oracle / MySQL )
 * WEBサーバの設計と構築 ( IIS / Apache Tomcat / Nginx )
-* AI開発サーバの設計と構築（ GPGPU / Jupyter ）
+* AI用GPU開発サーバの設計と構築（ CUDA / CuDNN / TeslaV100 / Jupyter / JupyterLab / Tensorflow / keras / Pytorch / NNabla）
 * アプリケーションコンテナ開発＆運用（ Docker / Windows Subsystem for Linux ）
-
 
 ### 機械学習モデルの開発：2年
 ```
