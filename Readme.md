@@ -13,27 +13,27 @@
 |          | [Github](https://github.com/hiyasichuka)                                     |
 |          | [Kaggle](https://www.kaggle.com/airk0126)                                    |
 |          | [AtCoder](https://atcoder.jp/users/hiyas1chuka)                              |
-| その他   | [高橋 慶の紹介記事](https://www.asahi-kasei-jobs.com/20/person/tech_09.html) |
+| その他   | [高橋 慶の紹介記事](https://www.asahi-kasei-jobs.com/newgrads/person/tech_09.html) |
 
 
 概要
 -----------
-### 業務アプリケーションの開発：7年
+### 製造業向け業務アプリケーションの開発：7年
 ```
-生産管理、品質管理、予実管理、データ分析などの業務で利用するアプリケーションを主に開発してきました。
-企画、開発、リリース、保守まで、上流から下流まで幅広く経験してきました。
-トラディショナルな企業なので、古の時代から存在するExcel VBAやVBコードが多く存在します。
+生産管理（製造・品質・在庫物流）やデータ分析などの業務で利用するアプリケーションを主に開発してきました。
+企画・提案から要件定義、設計・開発、リリース、保守まで、上流から下流まで幅広く経験してきました。
+トラディショナルな企業なので、いにしえの時代から存在するExcelVBAやVBといったプログラミングコードが多く存在します。
 ”太古の仕組み”をメンテ・開発してきた経験(なんなんだこのクソコードは)から、
 新規システム開発に取り組むときは、末永く使えるよう拡張性や保守性を考慮した設計・開発を心がけています。
 ```
 
- * Windowsアプリの開発（ VBA / VB.NET/ C# ）
+ * Windowsネイティブアプリの開発（ VBA / VB.NET/ C# ）
  * Webアプリの開発 ( ASP.NET / C# / HTML / Javascript / Python)
  * iOSアプリの開発 ( FileMaker )  *ObjectiveCは未経験。
  * クロスプラットフォームアプリの開発 ( Xamarin.Forms )
  * BIツール開発（ PowerBI / Tableau / Qlick Sense ）
 
-### システムインフラの開発：5年
+### システムインフラの開発：6年
 
 ```
 アプリをデプロイ＆運用するため、必要となるハードやソフトを購入し、構築してきました。
@@ -44,12 +44,12 @@
 Dockerは素晴らしいです。Linuxが好きになりました。
 ```
 
-* データベースサーバの設計と構築 ( SQLServer / Oracle / MySQL )
+* データベースサーバの設計と構築 ( SQLServer / Oracle / MySQL / PostgreSQL)
 * WEBサーバの設計と構築 ( IIS / Apache Tomcat / Nginx )
-* AI用GPU開発サーバの設計と構築（ CUDA / CuDNN / TeslaV100 / Jupyter / JupyterLab / Tensorflow / keras / Pytorch / NNabla）
-* アプリケーションコンテナ開発＆運用（ Docker / Windows Subsystem for Linux ）
+* GPU開発サーバの設計と構築（ CUDA / CuDNN / TeslaV100 / Jupyter / JupyterLab / Tensorflow / keras / Pytorch / NNabla）
+* アプリケーションコンテナ開発および運用（ Docker / Docker Swarm / Windows Subsystem for Linux）
 
-### 機械学習モデルの開発：2年
+### 機械学習モデルの開発：3年
 ```
 数理についての知識は乏しいが、動くモノは作れるといったレベルです。
 電子レンジの原理は良く分からないけど、それなりに料理はつくれる。みたいな感じでしょうか。
