@@ -13,6 +13,7 @@
 |          | [Github](https://github.com/hiyasichuka)                                     |
 |          | [Kaggle](https://www.kaggle.com/airk0126)                                    |
 |          | [AtCoder](https://atcoder.jp/users/hiyas1chuka)                              |
+|          | [LinkedIn](https://www.linkedin.com/in/kei-takahashi-1a05041aa/)             |
 | その他   | [高橋 慶の紹介記事](https://www.asahi-kasei-jobs.com/newgrads/person/tech_09.html) |
 
 
